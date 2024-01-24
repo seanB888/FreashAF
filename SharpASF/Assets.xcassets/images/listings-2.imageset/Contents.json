@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "blakey5521_Jamaican_female_fashion_model_20s_smile_white_neck_t_4be0e335-7dbc-414a-a614-612258d27a3e 4.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
